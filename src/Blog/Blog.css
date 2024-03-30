@@ -1,0 +1,239 @@
+:root{
+  
+    /* them 1 */
+    --white:rgba(255, 255, 255, 1);
+    --black:rgba(23, 23, 23, 1);
+    --white-orange:rgba(255, 196, 0, 1);
+    --dark-orange:rgb(220, 68, 2);
+  
+    --font-1:"Poppins", sans-serif;
+  
+  
+  
+  }
+
+.section3{
+    width: 100%;
+    height: 84vh;
+    position: absolute;
+    margin-top: 16vh;
+}
+
+
+.feedback_tittle1{
+    font-family: var(--font-1);
+    color: var(--black);
+    font-size: 30px;
+    margin-top: 2vh;
+    margin-left: 6vw;
+    font-weight: 700;
+    position: absolute;
+}
+
+.feedback_tittle2{
+    font-family: var(--font-1);
+    color: var(--black);
+    font-size: 18px;
+    margin-top: 10vh;
+    margin-left: 6vw;
+    font-weight: 500;
+    position: absolute;
+}
+
+.feedback_box{
+    width: 45vw;
+    height: 34vh;
+    background-color: rgb(221, 221, 221);
+    position: absolute;
+    margin-left: 6vw;
+    margin-top: 18vh;
+}
+
+.feedback_text{
+    font-family: var(--font-1);
+    font-weight: 500;
+    font-size: 16px;
+    color: var(--black);
+    padding-right: 30px;
+    margin-left: 6vw;
+    margin-top: 6vh;
+
+}
+
+.box_graphic{
+    width: 40px;
+    height: 50px;
+    background-color: brown;
+    justify-items: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    padding-left: 20px;
+    font-size: 14px;
+    font-family: var(--font-1);
+    font-weight: 800;
+    color: var(--white);
+    position: absolute;
+    margin-left: -1vw;
+    margin-top: 8vh;
+}
+
+.box_msg{
+    width: 10vw;
+    height: 5vh;
+    /* background-color: brown; */
+    margin-top: 4vh;
+    margin-left: 32vw;
+    padding:20px;
+    position: absolute;
+}
+
+.box_msg1{
+    margin-top: 0.3vw;
+    font-family: var(--font-1);
+    color: var(--black);
+    position: absolute;
+   
+}
+
+.box_msg2{  
+    margin-top: 2vw;
+    font-family: var(--font-1);
+    color: var(--black);
+    position: absolute;
+}
+
+.feedback_move{
+    width: 50px;
+    height: 10px;
+    position: absolute;
+    margin-top: 56vh;
+    margin-left: 6vw;
+    font-family: var(--font-1);
+
+}
+
+.feedback_next{
+    position: absolute;
+    font-family: var(--font-1);
+    color: var(--black);
+    margin-left: 2.4vw;
+    padding: 2px;
+    border: 2px rgba(230, 230, 230, 0.754) solid;
+    /* background-color: blueviolet; */
+
+}
+
+.feedback_back{
+    position: absolute; 
+    font-family: var(--font-1);
+    padding: 2px;
+    color: var(--black);
+    border: 2px rgba(230, 230, 230, 0.754) solid;
+    /* background-color: blueviolet; */
+}
+
+.faq{
+    margin-left: 50vw;
+    /* position: absolute; */
+    
+}
+
+.feedback_box2{
+    width: 40vw;
+    height: 34vh;
+    /* background-color: rgb(221, 221, 221); */
+    position: absolute;
+    margin-left: 6vw;
+    margin-top: 20vh;
+}
+
+.faq1{
+    width: 40vw;
+    
+    border-bottom: 1px rgb(204, 204, 204) solid;
+    border-top: 1px rgb(204, 204, 204) solid;
+    /* position: absolute; */
+
+}
+
+.faq_text{
+     padding-left:10px;
+     font-family: var(--font-1);
+}
+.faq_button{
+    position: absolute;
+    margin-top: -7vh;
+    margin-left: 36vw;
+    color: var(--black);
+}
+
+.faq2{
+    /* margin-top: 10vh; */
+    border-top: none;
+}
+
+
+
+
+
+
+
+/* Section4 */
+
+
+.section4{
+    width: 100%;
+    height: 20vh;
+    margin-top: 80vh;
+    /* background-color: rgb(209, 209, 209); */
+    position: absolute;
+    /* border-top: 0px black solid; */
+}
+
+.logo1{
+    width:100px;
+    height: 50px;
+    margin-top: 5vh;
+    margin-left: 8vw;
+    position: absolute;
+    image-resolution: 65vw 84vh;
+   
+
+}
+
+.logo2{
+    width:100px;
+    height: 70px;
+    margin-top: 3vh;
+    margin-left: 26vw;
+    position: absolute;
+
+}
+
+.logo3{
+    width:140px;
+    height: 50px;
+    margin-top: 4vh;
+    margin-left: 45vw;
+    position: absolute;
+
+}
+
+.logo4{
+    width:120px;
+    height: 50px;
+    margin-top: 4vh;
+    margin-left: 65vw;
+    position: absolute;
+
+}
+
+.logo5{
+    width: 50px;
+    height: 50px;
+    margin-top: 3vh;
+    margin-left: 82vw;
+    position: absolute;
+
+}

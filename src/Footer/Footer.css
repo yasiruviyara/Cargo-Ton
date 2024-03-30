@@ -1,0 +1,271 @@
+:root{
+  
+    /* them 1 */
+    --white:rgba(255, 255, 255, 1);
+    --black:rgba(23, 23, 23, 1);
+    --white-orange:rgba(255, 196, 0, 1);
+    --dark-orange:rgb(220, 68, 2);
+    --white-blue:rgba(63, 209, 255, 1);
+    --drak-dimgrey:rgba(99, 97, 97, 1);
+    --white-dimgrey:rgba(217, 217, 217, 1);
+  
+    --font-1:"Poppins", sans-serif;
+  
+  
+  
+  }
+
+ 
+
+.footer{
+    width: 100%;
+    height: 84vh;
+    position: absolute;
+    background-color: rgba(93, 108, 131, 1);
+    margin-top: 100vh;
+    color: white;
+
+}
+
+.footer_tittle_1{
+    font-family: var(--font-1);
+    font-size: 32px;
+    position: absolute;
+    margin-left: 6vw;
+    font-weight: 600;
+}
+
+.footer_tittle_2{
+    font-family: var(--font-1);
+    font-size: 16px;
+    position: absolute;
+    margin-left: 6vw;
+    margin-top: 12vh;
+    font-weight: 400;
+}
+
+.email_box{
+    width: 40vw;
+    height: 10vh;
+    margin-left: 50vw;
+    margin-top: 4vh;
+    /* background-color: rgb(196, 196, 196); */
+    position: absolute;
+}
+
+.email_box1{
+    width: 25vw;
+    height: 7vh;
+    background-color: var(--white);
+    border-radius: 10px;
+    padding-left: 20px;
+    position: absolute;
+    font-size: 18px;
+    padding: 20px 0px 0px 30px;
+    font-family: var(--font-1);
+    color: rgba(93, 108, 131, 1);
+
+}
+
+.email_button{
+    width: 8vw;
+    height: 7vh;
+    background-color: var(--white-orange);
+    border-radius: 10px;
+    padding-left: 20px;
+    position: absolute;
+    font-size: 16px;
+    padding: 20px 0px 0px 30px;
+    font-family: var(--font-1);
+    color: var(--white);
+    font-weight: 600;
+    margin-left: 28vw;
+
+}
+
+.footer_section1{
+    width: 25vw;
+    margin-top: 28vh;
+    margin-left: 6vw;
+    position: absolute;
+    
+}
+
+.section_tittle{
+    font-size: 24px;
+    font-family: var(--font-1);
+
+}
+
+.dot_line{
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: -2vh;
+}
+
+.section_text1{
+    font-size: 14px;
+    font-family: var(--font-1);
+    font-weight: 400;
+
+}
+
+.section_text2{
+    /* position: absolute; */
+    margin-top: -4.5vh;
+    margin-left: 3vw;
+}
+
+.section_text3{
+    /* position: absolute; */
+    margin-top: -4.5vh;
+    margin-left: 3vw;
+}
+
+
+
+.footer_section2{
+    width: 20vw;
+    margin-top: 28vh;
+    margin-left: 30vw;
+    position: absolute;
+    
+}
+
+.section2_text1{
+    margin-left: 2vw;
+    margin-top: -5.1vh;
+    /* position: absolute; */
+}
+
+.footer_section3{
+    width: 20vw;
+    margin-top: 28vh;
+    margin-left: 54vw;
+    position: absolute;
+    
+}
+
+.section3_text1{
+    margin-top: -4.8vh;
+    margin-left: 2vw;
+}
+
+.footer_section4{
+    width: 20vw;
+    margin-top: 40vh;
+    margin-left: 70vw;
+    position: absolute;
+}
+
+.footer_img{
+    width: 20vw;
+    margin-top: 38vh;
+    margin-left: 70vw;
+    position: absolute;
+    width: 27vw;
+    height: 34vh;
+    position: absolute;
+    /* background-color: blueviolet; */
+    /* margin-left: -5vw; */
+}
+
+.footer_img1{
+    width: 120px;
+    height: 100px;
+    position: absolute;
+    margin-top: 0vh;
+    margin-left: 0vw;
+}
+.footer_img2{
+    width: 120px;
+    height: 100px;
+    position: absolute;
+    margin-top: 0vh;
+    margin-left: 9.1vw;
+}
+.footer_img3{
+    width: 120px;
+    height: 100px;
+    position: absolute;
+    margin-top: 0vh;
+    margin-left: 18.2vw;
+}
+.footer_img4{
+    width: 120px;
+    height: 100px;
+    position: absolute;
+    margin-top: 17.5vh;
+    margin-left: 0vw;
+}
+.footer_img5{
+    width: 120px;
+    height: 100px;
+    position: absolute;
+    margin-top: 17.5vh;
+    margin-left: 9.1vw;
+}
+.footer_img6{
+    width: 120px;
+    height: 100px;
+    position: absolute;
+    margin-top: 17.5vh;
+    margin-left: 18.2vw;
+}
+
+
+.social_media{
+    margin-top: 76vh;
+    margin-left: 70vw;
+    position: absolute;
+    width: 27vw;
+    /* height: 34vh; */
+    /* background-color: blueviolet; */
+    /* margin-left: -5vw; */
+}
+
+.icon1{
+    width: 36px;
+    height: 36px;
+    position: absolute;
+    margin-top: 0vh;
+    margin-left: 0vw;
+}
+.icon2{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    margin-top: -0.5vh;
+    margin-left: 3vw;
+}
+.icon3{
+    width: 36px;
+    height: 36px;
+    position: absolute;
+    margin-top: 0vh;
+    margin-left: 6vw;
+}
+.icon4{
+    width: 36px;
+    height: 36px;
+    position: absolute;
+    margin-top: 0vh;
+    margin-left: 9vw;
+}
+.icon5{
+    width: 38px;
+    height: 38px;
+    position: absolute;
+    margin-top: 0vh;
+    margin-left: 12vw;
+}
+
+.copy_wirte{
+    margin-top: 79vh;
+    margin-left: 5vw;
+    font-family: var(--font-1);
+    color: var(--white);
+    font-size: 12px;
+    font-weight: 500;
+    position: absolute;
+}
