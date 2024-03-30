@@ -108,7 +108,7 @@
     height: 15vh;
     background-color: var(--white);
     position: fixed;
-    /* border-bottom: 5px var(--black) solid; */
+   
   }
 
   .menu1{
@@ -116,7 +116,7 @@
     
   }
 
-  menu2{
+  .menu2{
     visibility: hidden;
     
   }
